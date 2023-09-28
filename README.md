@@ -26,7 +26,7 @@ Feel free to explore my [GitHub repositories](https://github.com/kaleabendrias) 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleabendrias&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleabendrias&show_icons=true&theme=radical&hide=contribs,prs)
 
 ## Connect with Me
 
