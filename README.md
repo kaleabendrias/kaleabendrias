@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleab Endrias</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia.<br>Software Engineering Learner at ALX | Information Technology Student at Mekelle Institute of Technology"</h3>
+<h3 align="center">A passionate Backend developer from Ethiopia.<br>Software Engineering Learner at ALX | Information Technology Student at Mekelle Institute of Technology"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleabendrias&label=Profile%20views&color=0e75b6&style=flat" alt="kaleabendrias" /> </p>
 
