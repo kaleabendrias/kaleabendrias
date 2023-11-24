@@ -10,7 +10,12 @@
 - 💬 Ask me about **react, vue, Node**
 
 
-<a href="https://blogging-site-ts14.vercel.app" target="_blank">Developed site by me: Blogging Site</a>
+## Projects Developed by Me
+
+- [Blogging Site](https://blogging-site-ts14.vercel.app) - A platform for sharing and reading blog posts.
+
+- [Travel Kenya](https://travel-kenya-mauve.vercel.app/) - Explore the beauty of Kenya through this travel site.
+
 
 
 - 📫 How to reach me **kaleabendrias1212@gmail.com**
