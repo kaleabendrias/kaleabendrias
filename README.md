@@ -12,9 +12,11 @@
 
 ## Projects Developed by Me
 
-- [Blogging Site](https://blogging-site-ts14.vercel.app) - A platform for sharing and reading blog posts.
+- [Blogging site](https://blogify-kaleabendrias-projects.vercel.app/) - A platform for writers and readers to share their voices and connect, featuring user profiles, Edit, Delete, Google Auth. Built with NextJs + MongoDB.
 
-- [Travel Kenya](https://travel-kenya-mauve.vercel.app/) - Explore the beauty of Kenya through this travel site.
+- [Travel Kenya](https://travel-kenya-mauve.vercel.app/) - Explore the beauty of Kenya through this travel site. Built with React + NodeJs + MongoDB.
+
+- [Blogging Site](https://blogging-site-ts14.vercel.app) - A platform for sharing and reading blog posts.
 
 
 
