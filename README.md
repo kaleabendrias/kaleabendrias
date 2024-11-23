@@ -2,11 +2,12 @@
 <h3 align="center">A passionate back end developer from Ethiopia</h3>
 
 # 💫 About Me:
-Hi, I'm Kaleab Endrias!
+Hi, I'm Kaleab Endrias!  
 
-🌟 I'm currently working on a developer listing site for Ethiopian open-source contributors.
-🚀 I’m currently doing projects related to AI integration with Node.js and React.
-💬 Ask me about React, Node.js, Nestjs, PostgreSQL, and Tailwind CSS.
+🌟 I'm currently working on a developer listing site for Ethiopian open-source contributors.  
+🚀 I’m currently doing projects related to AI integration with Node.js and React.  
+💬 Ask me about React, Node.js, Nestjs, PostgreSQL, and Tailwind CSS.  
+
 
 # check my portfolio site
 
