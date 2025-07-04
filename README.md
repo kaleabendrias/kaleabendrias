@@ -2,10 +2,9 @@
 <h3 align="center">A passionate back end developer from Ethiopia</h3>
 
 # 💫 About Me:
-Hi, I'm Kaleab Endrias!  
+I'm Kaleab Endrias, a passionate software engineer who studied Information Technology at Mekelle Institute of Technology and graduated from the ALX Software Engineering program.
 
-🌟 I'm currently working on a developer listing site for Ethiopian open-source contributors.  
-🚀 I’m currently doing projects related to AI integration with Node.js and React.  
+I enjoy building scalable and user-focused applications, mainly using **Node.js**, **NestJS**, **React**, and **PostgreSQL**. I’m especially interested in **backend development**, **API design**, and **system architecture**.
 💬 Ask me about React, Node.js, Nestjs, PostgreSQL, and Tailwind CSS.  
 
 
